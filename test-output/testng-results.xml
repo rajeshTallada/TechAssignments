@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-22T08:12:48 IST" name="Default suite" finished-at="2024-01-22T08:12:55 IST" duration-ms="6789">
+    <groups>
+    </groups>
+    <test started-at="2024-01-22T08:12:48 IST" name="Default test" finished-at="2024-01-22T08:12:55 IST" duration-ms="6789">
+      <class name="RestCountriesAPITest">
+        <test-method signature="getCountryNegativeTest()[pri:0, instance:RestCountriesAPITest@1bc53649]" started-at="2024-01-22T08:12:49 IST" name="getCountryNegativeTest" finished-at="2024-01-22T08:12:54 IST" duration-ms="5737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryNegativeTest -->
+        <test-method signature="getCountryPositiveTest()[pri:0, instance:RestCountriesAPITest@1bc53649]" started-at="2024-01-22T08:12:54 IST" name="getCountryPositiveTest" finished-at="2024-01-22T08:12:55 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryPositiveTest -->
+      </class> <!-- RestCountriesAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
